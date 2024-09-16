@@ -14,7 +14,7 @@ This project provides a Python-based tool for analyzing and visualizing metaboli
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/KEGG-pathway-analyser.git
+   git clone https://github.com/winniecook/KEGG-pathway-analyser.git
    cd KEGG-pathway-analyser
    ```
 
