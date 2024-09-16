@@ -14,8 +14,8 @@ This project provides a Python-based tool for analyzing and visualizing metaboli
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/metabolic-pathway-analyzer.git
-   cd metabolic-pathway-analyzer
+   git clone https://github.com/yourusername/KEGG-pathway-analyser.git
+   cd KEGG-pathway-analyser
    ```
 
 2. Install the required dependencies:
@@ -28,7 +28,7 @@ This project provides a Python-based tool for analyzing and visualizing metaboli
 Run the script with Python:
 
 ```
-python pathway_analyzer.py
+metabolic-pathway-analyzer-8.py
 ```
 
 By default, the script analyzes the Citrate Cycle (TCA cycle) pathway (KEGG ID: hsa00020). To analyze a different pathway, modify the `pathway_id` variable in the `main()` function.
